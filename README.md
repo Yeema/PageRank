@@ -1,4 +1,4 @@
-# LSH
+# PageRank
 Usage:
 1. build a project https://azure.microsoft.com/en-us/documentation/articles/hdinsight-develop-deploy-java-mapreduce-linux/
 2. put PageRank.java under src/main/java/org/apache/hadoop/examples/PageRank.java
